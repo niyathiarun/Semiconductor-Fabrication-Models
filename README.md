@@ -59,7 +59,6 @@ I am an Electronics and Communication Engineering student passionate about:
 - VLSI and device design
 - Process simulation
 - Core electronics engineering
-
 This repository represents my growing interest in advanced semiconductor technologies and fabrication research.
 linkden:www.linkedin.com/in/niyathiarun
 ---
